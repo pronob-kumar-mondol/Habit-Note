@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066100421773",
+    "project_id": "habit-note-dc831",
+    "storage_bucket": "habit-note-dc831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066100421773:android:1989c7cac0d70597569ec4",
+        "android_client_info": {
+          "package_name": "com.example.habitnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujbc1qxrDCTHA51r8jnB-Bi3fgszaWFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
